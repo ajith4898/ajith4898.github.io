@@ -1,4 +1,4 @@
-# Roshan Kr Soni (Developer Portfolio)
+# Ajith Kumar (Developer Portfolio)
 
 
 **PWA updated** to the *portfolio* and **loading speed** optimized 
@@ -6,7 +6,7 @@
 **Technologies used** : HTML5, CSS3, JS, ES6
 
 Updated Portfolio can be seen here 
-  [link to Portfolio](https://roshankrsoni.github.io)
+  [link to Portfolio](https://ajith4898.github.io)
 <br />
 ## Pagespeed Score
 
@@ -19,8 +19,8 @@ If you need any help, ping me !`
 ________________________________________________________________________________________
 
 Cheers, <br>
-Roshan Kr Soni<br>
-mailto: Roshankrsoni1@gmail.com
+Ajith Kumar S<br>
+mailto:ajeethaju4898@gmail.com
 ________________________________________________________________________________________
 
 I sincerely admit ! Not everything thing you saw on the website was developed by me from
@@ -29,7 +29,3 @@ or reproduced from the open source public code.
 <br /><br />
 ## **Our contributors** 
 
-Name  | Roles
------------- | -------------
-:sunglasses: [@RoshanKrSoni](https://github.com/Roshankrsoni) | **Owner**
-:nerd_face: [@AdityaKrSoni](https://github.com/roshankr-asort)  | **Contributor**
